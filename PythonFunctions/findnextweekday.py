@@ -10,7 +10,7 @@ values in the TrashSchedule field which is populated with days of the week as
 strings Monday, Tuesday, etc... It then calls the finddatenextday function and
 returns an easy to read date for the next occurence of that weekday. So if you
 are looking for a way to populate the next available date based on a string like
-'Monday' then you could use the finddatenextday function to do so.
+'Monday' then you could use the finddatenextday function to do so...
 """
 
 def finddatenextday(x):

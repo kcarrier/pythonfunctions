@@ -13,7 +13,7 @@
 """
 I do not take credit for this script but found it useful and it worked for my
 use so I thought I would add it to this repository. It is a very intelligent
-script and runs extremely fast. Kudos to Richard Fairhurst.
+script and runs extremely fast. Kudos to Richard Fairhurst...
 """
 
 from time import strftime

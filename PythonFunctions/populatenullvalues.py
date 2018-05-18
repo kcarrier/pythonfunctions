@@ -5,7 +5,7 @@ No Data Available.
 This function will loop over a featureclass and search all fields and replace
 the empty values with a message. This is useful for data that might be
 publically available where you do not want users seeing Null, None, or blank
-values. Assumption is all fields are string/text.
+values. Assumption is all fields are string/text...
 """
 
 def populatenullvalues():
